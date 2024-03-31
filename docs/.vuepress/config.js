@@ -59,7 +59,7 @@ function getGuideSidebar (title) {
       title,
       collapsable: false,
       children: [
-        '',
+        'wmxiaozhi-intro',
         'getting-started'
       ]
     }
