@@ -22,8 +22,8 @@ module.exports = {
   },
   description: 'AI 唯美小智新体验',
   themeConfig: {
-    repo: 'none',
-    docsRepo: 'none',
+    // repo: 'none',
+    // docsRepo: 'none',
     docsDir: 'docs',
     editLinks: false,
     locales: {
